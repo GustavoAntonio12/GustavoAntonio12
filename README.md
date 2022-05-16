@@ -5,7 +5,7 @@
     
 - 🎓 Técnico em Desenvolvimento de Sistemas <br>
 - 📚 Estudante de Ciências da Computação <br>
-- 🥈 1º Lugar da 8ª Maratona de Programação CPS
+- 🥇 1º Lugar da 8ª Maratona de Programação CPS
     
     <br>
 
