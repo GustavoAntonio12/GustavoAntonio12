@@ -1,9 +1,15 @@
-## <strong>Olá! Eu Sou Gustavo Antonio</strong>
+## <strong>Olá! Sou Gustavo Antonio</strong>
 
 <div style="background-color:red";>
+    
+    
+- 🎓 Técnico em Desenvolvimento de Sistemas <br>
+- 📚 Estudante de Ciências da Computação <br>
+- 🥈 1º Lugar da 8ª Maratona de Programação CPS
+    
+    <br>
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAntonio12&layout=compact&langs_count=7&theme=tokyonight">
-
 
 </div>
 
