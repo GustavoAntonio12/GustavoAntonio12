@@ -1,6 +1,6 @@
 ## <strong>Olá! Sou Gustavo Antonio</strong>
 
-<div style="background-color:red";>
+<div>
     
     
 - 🎓 Técnico em Desenvolvimento de Sistemas <br>
@@ -8,10 +8,13 @@
 - 🥇 1º Lugar da 8ª Maratona de Programação CPS
     
     <br>
+  <div align="center">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoAntonio12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&include_all_commits"/>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAntonio12&layout=compact&langs_count=7&theme=tokyonight">
 
-</div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAntonio12&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>   
+
 
 <hr>
 
